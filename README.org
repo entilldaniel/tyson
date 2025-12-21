@@ -1,3 +1,3 @@
-* Lispy
+* Tyson
 This is my repository for following the tutorial from [[https://buildyourownlisp.com][buildyouownlisp.com]]
 So far it has been a great learning journey and I higly recommend the book.

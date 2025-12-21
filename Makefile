@@ -1,5 +1,6 @@
 all:
-	cc -std=c99 -Wall -Werror parsing.c mpc.c -ledit -lm -o lispy
+	cc -std=c99 -Wall -Werror parsing.c mpc.c -ledit -lm -o tyson
 
 clean:
-	rm lispy
+	rm tyson
+
